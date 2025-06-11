@@ -166,7 +166,7 @@ Penanganan yang mungkin:
 ### **Exploratory Data Analysis**
 
 #### **1. Distribusi Rating**
-![image-21](https://github.com/user-attachments/assets/2ea38581-61cf-411b-91ff-71b0aa4121fa)
+![Distribusi Rating](https://github.com/RefaMuhammad/Movie-Recommendation/blob/main/image/distribusi_rating.png)
 
 1. **Distribusi Tidak Merata**:
 
@@ -197,6 +197,7 @@ Penanganan yang mungkin:
 Grafik distribusi rating menunjukkan bahwa sebagian besar pengguna memberikan rating tinggi (khususnya 4), sementara hanya sebagian kecil yang memberikan rating rendah. Ini bisa menjadi indikator positif terhadap kualitas produk atau layanan yang dinilai.
 
 #### **2. Film dengan Rating Terbanyak**
+![film terlaris](https://github.com/RefaMuhammad/Movie-Recommendation/blob/main/image/film_dengan_rating_terbanyak.png)
 
 1. **Film dengan Rating Terbanyak**:
 
@@ -221,6 +222,7 @@ Grafik distribusi rating menunjukkan bahwa sebagian besar pengguna memberikan ra
 Grafik ini mengungkap bahwa film klasik dan berkualitas dari tahun 1990-an mendominasi dalam hal jumlah rating yang diberikan pengguna. Jumlah rating yang tinggi ini bisa menjadi indikator bahwa film-film tersebut banyak ditonton, dikenang, dan dinilai ulang oleh generasi penonton yang berbeda.
 
 #### **3. Genre Terbanyak**
+![genre terbanyak](https://github.com/RefaMuhammad/Movie-Recommendation/blob/main/image/genre_terbanyak.png)
 
 1. **Genre Terpopuler**:
 
@@ -246,6 +248,7 @@ Grafik ini mengungkap bahwa film klasik dan berkualitas dari tahun 1990-an mendo
 Distribusi ini menunjukkan bahwa **Drama** adalah genre paling dominan dalam industri film, diikuti oleh **Comedy** dan **Thriller**. Sementara itu, genre-genre seperti **IMAX** dan **Film-Noir** relatif jarang. Informasi ini dapat digunakan untuk memahami tren preferensi produksi film dan potensi pasar dalam industri perfilman.
 
 #### **4. Tag yang Paling Sering Digunakan**
+![tag sering digunakan](https://github.com/RefaMuhammad/Movie-Recommendation/blob/main/image/tag_sering_digunakan.png)
 
 1. **Tag Terpopuler**:
 
